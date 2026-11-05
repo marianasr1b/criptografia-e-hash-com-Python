@@ -1,1 +1,0 @@
-# criptografia-e-hash-com-Python
